@@ -4,7 +4,7 @@
 
 1. Placer les données dans le dossier present. Le dossier devrais avoir la structure suivante:
 ``` 
-PSY6019_cyclism
+PSY6019_cyclisme
 |-> README.md
 |-> main.r
 ...
